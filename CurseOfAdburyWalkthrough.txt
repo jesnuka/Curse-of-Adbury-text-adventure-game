@@ -1,0 +1,69 @@
+﻿Curse of Adbury Walkthrough O1 Kurssi
+
+Walkthrough
+
+Walkthrough on välitön suora tapa voittaa peli. Se ei sisällä esimerkiksi
+ohjeen hakua päästä hautausmaalle, joka löytyy majakasta, johon pääsee lyhdyn hankkimalla. 
+Koko majakan ja lyhdyn hakemisen voi siis ohittaa, jos tietää valmiiksi mihin hautaan mennä, joka on se mitä tässä
+ohjeessa on kerrottu. Toivottavasti ette katso suoraan hautaa walkthroughsta :)
+Tässä myös hankitaan paras ending.
+Eri endingejä on yhteensä noin 5 kappaletta :) 
+Nämä komennot järjestyksessä ->
+go north
+go north
+go north
+go east
+go east 
+go east
+go north
+go down
+go east
+examine crates
+go west
+go up
+go south
+go west
+go north
+go east
+go east
+go east
+use spade
+examine coffin
+go west
+go west
+go west
+go south
+go west
+go north
+go north
+go west
+go west
+examine rug
+go down
+get page
+go up
+go east
+go east
+go south
+go south
+go south
+go east
+go south
+go east
+use old key
+go east
+go down - till you can't anymore (About 12 times.)
+go north
+go east
+go north
+go west
+get bar
+use bar
+go east
+go north
+go up
+use page
+You win game with the best ending :) (Cheater!)
+
+For a fun challenge, try to get inside the warehouse and rub the antique lamp there ;) 
+Makes the game a bit more challenging
